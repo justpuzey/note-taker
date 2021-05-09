@@ -19,7 +19,7 @@
   * Use your browser to open localhost on PORT:3001 `http://localhost:3001` or visit Heroku-hosted site at: `https://github.com/justpuzey/note-taker`
 
   ## Preview
-  ![Application Preview](./public/assets/images/capture.PNG)
+  ![Application Preview](./public/assets/images/Capture.PNG)
  
   ## Usage
   <p><i>Instructions for application usage including examples:</i></p>
