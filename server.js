@@ -2,6 +2,7 @@
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
+const PORT = process.env.PORT || 3001;
 const app = express();
 
 // import { v4 as idCreator } from 'uuid';
@@ -57,6 +58,6 @@ app.delete("/api/notes/:id", function (req, res) {
 });
 
 //Listen 
-app.listen(3001, () => {
+app.listen(PORT, () => {
   console.log(`API server now on port 3001!`);
 });
