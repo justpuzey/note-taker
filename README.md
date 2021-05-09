@@ -8,30 +8,26 @@
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
   * [License](#license)
   
   ## Installation
   <p><i>Steps required to install application, dependencies and configure the environment:</i></p>
 
-  Clone the repository to your local environment. Navigate to the root folder and run `npm install` using the terminal to install project dependencies. Use your browser to open `http://localhost:3001`
+  * Clone the repository to your local environment. 
+  * Navigate to the root folder and run `npm install` using the terminal to install project dependencies. 
+  * Use your browser to open localhost on PORT:3001 `http://localhost:3001` or visit Heroku-hosted site at: `https://github.com/justpuzey/note-taker`
 
+  ## Preview
+  ![Application Preview](./public/assets/images/capture.PNG)
+ 
   ## Usage
   <p><i>Instructions for application usage including examples:</i></p>
+  * Add new notes by filling out the Note Title and Note Text and clicking the save icon in the top-right corner
+  * View previously created notes by selecting the note in the left column
+  * Delete existing notes by selecting the trash can icon in the left-hand column
 
-  
 
-  ## Contributing
-  <p><i>Guidelines for contributing to the project, including contributor covenant:</i></p>
-
-  
-
-  ## Tests
-  <p><i>Below are examples of current application tests and instructions on how to run them:</i></p>
-
-  
 
   ## Questions
   If you have any questions, please contact:</br>
@@ -39,6 +35,6 @@
   email: justpuzey@gmail.com
 
   ## License
-  
+  MIT
   
   
